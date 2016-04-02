@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Good Governance]]></title>
         <description><![CDATA[Good Governance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/goodgovernance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 20:16:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 20:31:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/goodgovernance/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Collective Agency]]></title>
+            <description><![CDATA[<article><h1>Collective Agency</h1><p>In 1842 Joseph Smith listed as one of the articles of the LDS faith that, as a people, we believe in being subject to government officials and in “obeying, honoring and sustaining the law.” (AF 1:12) Section 134 of the Doctrine and Covenants goes further and states as a belief of the Church that “governments were instituted of God for the benefit of man; and that he holds men accountable for their acts in relation to them, both in making laws and administering them, for the good and safety of society.” (D&C 134:1)</p></article>]]></description>
+            <link>https://thegrid.ai/goodgovernance/collective-agency/index.html</link>
+            <guid isPermaLink="false">24e6e848-ef27-4e4c-8fee-b2fda9ccab90</guid>
+            <pubDate>Sat, 02 Apr 2016 20:31:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Citizen Saints]]></title>
             <description><![CDATA[<article><h1>Citizen Saints</h1><p>Working conclusions about the ends and means of governments derived from the spiritual principles:</p></article>]]></description>
-            <link>undefinedcitizen-saints/index.html</link>
+            <link>https://thegrid.ai/goodgovernance/citizen-saints/index.html</link>
             <guid isPermaLink="false">6cd8e53b-272c-4935-9055-1da1181f1c3a</guid>
             <pubDate>Sat, 02 Apr 2016 20:16:58 GMT</pubDate>
         </item>
