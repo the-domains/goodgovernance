@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The first foundational principle for human interaction was given by the Savior: “Thou shalt love thy neighbor as thyself.” (Matt 22:39) In 1831, the Lord reiterated this principle to a conference of early Saints using repetition and a parable to emphasize the point more strongly:'
-datePublished: '2016-04-02T21:22:37.800Z'
-dateModified: '2016-04-02T21:22:37.294Z'
+datePublished: '2016-04-02T21:23:13.602Z'
+dateModified: '2016-04-02T21:23:13.174Z'
 title: Foundational Principles of Good Governance
 author: []
+sourcePath: _posts/2016-04-02-foundational-principles-of-good-governance.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-02-foundational-principles-of-good-governance.md
-published: true
 url: foundational-principles-of-good-governance/index.html
 _type: Article
 
